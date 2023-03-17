@@ -1,5 +1,6 @@
 Esta es mi historia 
 
 Tengo 26 años, vivo en colombia en la ciudad de medellin
+Me gustaria viajar a italia
 
 Estoy aprendiendo Git
