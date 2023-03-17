@@ -1,6 +1,8 @@
 Esta es mi historia 
 
 Tengo 26 años, vivo en colombia en la ciudad de medellin
+Tengo de estatura 165 cm
 Me gustaria viajar a italia
 
 Estoy aprendiendo Git
+veo nuevos comandos que aprender
